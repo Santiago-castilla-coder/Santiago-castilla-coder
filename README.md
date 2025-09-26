@@ -1,4 +1,4 @@
-# 👨‍💻 ¡Hola! Soy Santiago Castilla
+#  ¡Hola! Soy Santiago Castilla
 
 Soy un **desarrollador en formación** con un fuerte interés en el **desarrollo web** y el **backend**.  
 Actualmente me encuentro en **proceso de aprendizaje**, construyendo proyectos que me permiten mejorar mis habilidades en tecnologías como **Node.js**, **JavaScript**, **TypeScript**, **Python**, **HTML**, **CSS** y **PostgreSQL**.  
